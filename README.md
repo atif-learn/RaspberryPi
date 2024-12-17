@@ -33,13 +33,13 @@ In this repository, you’ll find:
 
 Click on the individual project folders to explore the code and documentation for each project. You’ll find all the details needed to get the project up and running on your Pi5!
 
-[Explore Projects](https://github.com/your-username/pi5-projects)
+[Explore Projects](https://github.com/atif-learn/RaspberryPi)
 
 ---
 
 ### 🤖 Submit Ideas & Feedback
 
-Have a suggestion or feedback? Open an [issue](https://github.com/your-username/pi5-projects/issues) and share your thoughts! Or, if you have a cool idea for a project or improvement, feel free to open a pull request. Collaboration is key!
+Have a suggestion or feedback? Open an [issue](https://github.com/atif-learn/RaspberryPi/issues) and share your thoughts! Or, if you have a cool idea for a project or improvement, feel free to open a pull request. Collaboration is key!
 
 ---
 
@@ -50,7 +50,7 @@ Your contributions are welcome! Whether it’s fixing bugs, improving documentat
 1. **Fork** this repository to your GitHub account.
 2. **Clone** your fork locally:
     ```bash
-    git clone https://github.com/atif-learn/pi5-projects.git
+    git clone https://github.com/atif-learn/RaspberryPi.git
     ```
 3. **Create a branch** for your changes:
     ```bash
@@ -70,12 +70,12 @@ To get started with any of the projects, follow these simple steps:
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/atif-learn/pi5-projects.git
+    git clone https://github.com/atif-learn/RaspberryPi.git
     ```
 
 2. **Navigate to the project directory** you want to work on:
     ```bash
-    cd pi5-projects/project-name
+    cd RaspberryPi/project-name
     ```
 
 3. **Follow the project-specific setup instructions** in the README file inside each project folder.
@@ -111,9 +111,9 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use a
 
 ## 🏆 Badges
 
-![GitHub Stars](https://img.shields.io/github/stars/atif-learn/pi5-projects?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/atif-learn/pi5-projects?color=green)
-![GitHub Forks](https://img.shields.io/github/forks/atif-learn/pi5-projects?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/atif-learn/RaspberryPi?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/atif-learn/RaspberryPi?color=green)
+![GitHub Forks](https://img.shields.io/github/forks/atif-learn/RaspberryPi?style=social)
 
 ---
 
