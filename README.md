@@ -10,7 +10,7 @@ Welcome to my **Pi5 Projects Repository**! This space is dedicated to everything
 
 ## About Me 👨‍💻
 
-Hi there! I'm **[Your Name]**, a tech enthusiast passionate about **Raspberry Pi**, **IoT**, and **embedded systems**. My journey started with curiosity and a desire to build things, and now I’m diving deep into the world of automation, sensors, and smart projects powered by the **Raspberry Pi 5**. 
+Hi there! I'm **Aif**, a tech enthusiast passionate about **Raspberry Pi**, **IoT**, and **embedded systems**. My journey started with curiosity and a desire to build things, and now I’m diving deep into the world of automation, sensors, and smart projects powered by the **Raspberry Pi 5**. 
 
 Here, I’ll document my Pi5-based experiments, and hopefully, you’ll find something useful or interesting along the way. Let’s collaborate and learn together! If you have any questions or ideas, don’t hesitate to reach out. 💬
 
@@ -50,7 +50,7 @@ Your contributions are welcome! Whether it’s fixing bugs, improving documentat
 1. **Fork** this repository to your GitHub account.
 2. **Clone** your fork locally:
     ```bash
-    git clone https://github.com/your-username/pi5-projects.git
+    git clone https://github.com/atif-learn/pi5-projects.git
     ```
 3. **Create a branch** for your changes:
     ```bash
@@ -70,7 +70,7 @@ To get started with any of the projects, follow these simple steps:
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/your-username/pi5-projects.git
+    git clone https://github.com/atif-learn/pi5-projects.git
     ```
 
 2. **Navigate to the project directory** you want to work on:
@@ -98,7 +98,7 @@ Feel free to explore the individual projects for more specifics!
 
 Let’s build something amazing together! If you find this repository useful, don’t forget to give it a star ⭐. Also, feel free to follow me or share your thoughts:
 
-- **Follow me on GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Follow me on GitHub**: [Your GitHub Profile](https://github.com/atif-learn)
 - **Share your projects**: If you are working on something cool with Pi5, share it! I'd love to see your work.
 
 ---
@@ -111,9 +111,9 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use a
 
 ## 🏆 Badges
 
-![GitHub Stars](https://img.shields.io/github/stars/your-username/pi5-projects?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/pi5-projects?color=green)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/pi5-projects?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/atif-learn/pi5-projects?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/atif-learn/pi5-projects?color=green)
+![GitHub Forks](https://img.shields.io/github/forks/atif-learn/pi5-projects?style=social)
 
 ---
 
