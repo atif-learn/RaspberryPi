@@ -98,7 +98,7 @@ Feel free to explore the individual projects for more specifics!
 
 Let’s build something amazing together! If you find this repository useful, don’t forget to give it a star ⭐. Also, feel free to follow me or share your thoughts:
 
-- **Follow me on GitHub**: [Your GitHub Profile](https://github.com/atif-learn)
+- **Follow me on GitHub**: [atif-learn](https://github.com/atif-learn)
 - **Share your projects**: If you are working on something cool with Pi5, share it! I'd love to see your work.
 
 ---
@@ -114,6 +114,5 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use a
 ![GitHub Stars](https://img.shields.io/github/stars/atif-learn/RaspberryPi?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/atif-learn/RaspberryPi?color=green)
 ![GitHub Forks](https://img.shields.io/github/forks/atif-learn/RaspberryPi?style=social)
-
 ---
 
